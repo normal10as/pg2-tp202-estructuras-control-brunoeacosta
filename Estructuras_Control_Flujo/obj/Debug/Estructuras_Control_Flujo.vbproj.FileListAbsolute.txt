@@ -1,0 +1,11 @@
+C:\Users\iluva\source\repos\Estructuras_Control_Flujo\Estructuras_Control_Flujo\obj\Debug\Estructuras_Control_Flujo.vbprojResolveAssemblyReference.cache
+C:\Users\iluva\source\repos\Estructuras_Control_Flujo\Estructuras_Control_Flujo\obj\Debug\Estructuras_Control_Flujo.Resources.resources
+C:\Users\iluva\source\repos\Estructuras_Control_Flujo\Estructuras_Control_Flujo\obj\Debug\Estructuras_Control_Flujo.vbproj.GenerateResource.cache
+C:\Users\iluva\source\repos\Estructuras_Control_Flujo\Estructuras_Control_Flujo\obj\Debug\Estructuras_Control_Flujo.vbproj.CoreCompileInputs.cache
+C:\Users\iluva\source\repos\Estructuras_Control_Flujo\Estructuras_Control_Flujo\bin\Debug\Estructuras_Control_Flujo.exe.config
+C:\Users\iluva\source\repos\Estructuras_Control_Flujo\Estructuras_Control_Flujo\bin\Debug\Estructuras_Control_Flujo.exe
+C:\Users\iluva\source\repos\Estructuras_Control_Flujo\Estructuras_Control_Flujo\bin\Debug\Estructuras_Control_Flujo.pdb
+C:\Users\iluva\source\repos\Estructuras_Control_Flujo\Estructuras_Control_Flujo\bin\Debug\Estructuras_Control_Flujo.xml
+C:\Users\iluva\source\repos\Estructuras_Control_Flujo\Estructuras_Control_Flujo\obj\Debug\Estructuras_Control_Flujo.exe
+C:\Users\iluva\source\repos\Estructuras_Control_Flujo\Estructuras_Control_Flujo\obj\Debug\Estructuras_Control_Flujo.xml
+C:\Users\iluva\source\repos\Estructuras_Control_Flujo\Estructuras_Control_Flujo\obj\Debug\Estructuras_Control_Flujo.pdb
